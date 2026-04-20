@@ -49,4 +49,4 @@
 
 ## Course
 
-**CSE341 — Microprocessors and Assembly Language**
+**CSE341 — Microprocessors**
